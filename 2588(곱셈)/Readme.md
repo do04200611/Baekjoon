@@ -21,6 +21,9 @@
   | [int 와 Integer의 차이](https://kim-kang-hyun.tistory.com/17)|2024/04/15 |
 |[백준 2588번 문제(곱셈)](https://kim-kang-hyun.tistory.com/16)|2024/04/15|
 
+# github 웹 호스팅 페이지
+<a href="https://do04200611.github.io/Baekjoon/2588(%EA%B3%B1%EC%85%88)/index.html">곱셈(2588번)</a>
+
 ## Contact 
 
 
