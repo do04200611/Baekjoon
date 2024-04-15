@@ -22,6 +22,7 @@ public class CodingTest {
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt(); // 입력 받은 값 중 한 가지를 num으로 지정해서 받음
 		String num2 = sc.next();//입력 받은 값 중 나머지 한가지를 num2로 지정 받음 
+		sc.close();
 		
 		//곱셈 과정 출력 부분
 		System.out.println(num * (num2.charAt(2) - '0')); 
