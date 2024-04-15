@@ -1,7 +1,8 @@
 .problemimg{
     width: 30;
     height: 30;
-    position : center;
+    margin-left:auto;
+    margin-right:auto;
 }
 .data{
    margin-left:auto;
