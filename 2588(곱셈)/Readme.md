@@ -6,6 +6,7 @@
 
 ## Language of repository📚
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 ## Introduction to repositories 
 2588번 곱셈 문제를 풀어놓은 코드입니다. 
