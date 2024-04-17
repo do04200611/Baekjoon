@@ -25,27 +25,6 @@ public class Main {
 				System.out.println("4");
 			}
 		}
-		
-		
-		Scanner s = new Scanner(System.in);
-		int x1 = s.nextInt();
-		int y1 = s.nextInt();
-		
-		if ( x1 < 0) { //x가 음수 일 때
-			if (y1 < 0) {// y가 음수 일 때
-				System.out.println("3");
-			}
-			if (y1>0) {// y가 양수 일 때
-				System.out.println("2");
-			}	
-		}
-		else if (x1 > 0) { // x가 양수 일 때
-			if (y1>0) {// y가 양수 일 때
-				System.out.println("1");
-			}
-			if (y1<0) { // y가 음수 일 때
-				System.out.println("4");
-			}
-		}
+	
 	}
 }
