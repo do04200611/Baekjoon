@@ -25,7 +25,7 @@
 |[백준 2884(알람 시계)](https://kim-kang-hyun.tistory.com/20)|2024/04/17|
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/2588(%EA%B3%B1%EC%85%88)/index.html">곱셈(2588번)</a>
+<a href="https://do04200611.github.io/Baekjoon/2884(%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84)/index.html">알람 시계(2884번)</a>
 
 ## Contact 
 
