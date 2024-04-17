@@ -16,16 +16,6 @@
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/2d9c1189-4c09-4ab5-8bf3-2142fa95f85f"></a>
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/9dbf826b-1e15-41e9-9915-33052a37ab73"></a>
 
-
- ## project
-
-  | 페이지 명                                                                                |  기간         |
-  |--------------------------------------------------------------------------------|---------------|
-  |[next 시리즈를 정리한 페이지](https://kim-kang-hyun.tistory.com/18) |2024/04/15|
-  | [int 와 Integer의 차이](https://kim-kang-hyun.tistory.com/17)|2024/04/15 |
-  |[(java) charAt란?)](https://kim-kang-hyun.tistory.com/19)|2024/04/15|
-|[백준 2588번 문제(곱셈)](https://kim-kang-hyun.tistory.com/16)|2024/04/15|
-
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/2588(%EA%B3%B1%EC%85%88)/index.html">곱셈(2588번)</a>
 
