@@ -14,8 +14,7 @@
 
 # 결과 사진 <br>
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/2d9c1189-4c09-4ab5-8bf3-2142fa95f85f"></a>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/9dbf826b-1e15-41e9-9915-33052a37ab73
-"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/9dbf826b-1e15-41e9-9915-33052a37ab73"></a>
 
 
  ## project
