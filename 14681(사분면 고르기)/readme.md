@@ -13,11 +13,12 @@
 
 ## Introduction to repositories 
 2588번 곱셈 문제를 풀어놓은 코드입니다. 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/CodingTest.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/a524bbdc-0067-4c10-9f73-24f30b059fa6"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/65d089f4-1901-4885-a860-7f8340b936f6"></a>
 
 # 결과 사진 <br>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/CodingTest.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/a524bbdc-0067-4c10-9f73-24f30b059fa6"></a>
 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/65d089f4-1901-4885-a860-7f8340b936f6"></a>
+
  ## project
 
   | 페이지 명                                                                                |  기간         |
