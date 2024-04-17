@@ -22,10 +22,7 @@
 
   | 페이지 명                                                                                |  기간         |
   |--------------------------------------------------------------------------------|---------------|
-  |[next 시리즈를 정리한 페이지](https://kim-kang-hyun.tistory.com/18) |2024/04/15|
-  | [int 와 Integer의 차이](https://kim-kang-hyun.tistory.com/17)|2024/04/15 |
-  |[(java) charAt란?)](https://kim-kang-hyun.tistory.com/19)|2024/04/15|
-|[백준 2588번 문제(곱셈)](https://kim-kang-hyun.tistory.com/16)|2024/04/15|
+|[백준 2884(알람 시계)](https://kim-kang-hyun.tistory.com/20)|2024/04/17|
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/2588(%EA%B3%B1%EC%85%88)/index.html">곱셈(2588번)</a>
