@@ -9,7 +9,7 @@
 
 ## Introduction to repositories 
 2884번 알람 시계 문제를 풀어놓은 코드입니다. 
-<img src="https://github.com/do04200611/Baekjoon/assets/74278578/05063faa-c78c-4d04-8db4-8540ee4474e5"> 
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcluITN%2FbtsGHGFFxLM%2FytbNEkoVYMy7whuYKrxNJK%2Fimg.png"> 
 
 
 # 결과 사진 <br>
