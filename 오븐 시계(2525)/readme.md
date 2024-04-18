@@ -14,11 +14,11 @@
 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2884(%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84)/Main.java"><img src="https://github.com/do04200611/Baekjoon/assets/74278578/31505ccb-965c-4f78-b2e6-f9632a4305b8"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84(2525)/Main.java"><img src="https://github.com/do04200611/Baekjoon/assets/74278578/31505ccb-965c-4f78-b2e6-f9632a4305b8"></a>
 
 
 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/42c86ed9-332f-48fb-b936-11a18bb7dd15"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84(2525)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/42c86ed9-332f-48fb-b936-11a18bb7dd15"></a>
  ## project
 
 # github 웹 호스팅 페이지
