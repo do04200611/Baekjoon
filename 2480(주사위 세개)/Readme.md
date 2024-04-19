@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 ## Introduction to repositories 
-2588번 곱셈 문제를 풀어놓은 코드입니다. 
-<img src="https://github.com/do04200611/Baekjoon/assets/74278578/4dd1b058-e046-4119-ad2d-b0d7277e95ac"> 
+2480번 주사위 3개 문제를 풀어놓은 코드입니다. 
+<img src="https://github.com/do04200611/Baekjoon/assets/74278578/2d733ec8-c60a-4d3b-bbc2-ce955570eb4e"> 
 
 # 결과 사진 <br>
 <a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/CodingTest.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/31a22c5f-c19b-4a13-b4ec-097fe26c0131"></a>
