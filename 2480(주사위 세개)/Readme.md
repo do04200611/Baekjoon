@@ -13,9 +13,9 @@
 <img src="https://github.com/do04200611/Baekjoon/assets/74278578/2d733ec8-c60a-4d3b-bbc2-ce955570eb4e"> 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/CodingTest.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/31a22c5f-c19b-4a13-b4ec-097fe26c0131"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/31a22c5f-c19b-4a13-b4ec-097fe26c0131"></a>
 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/1ddd6c3f-f54c-420f-8fd5-3cb099eef6cd"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/1ddd6c3f-f54c-420f-8fd5-3cb099eef6cd"></a>
  ## project
 
   | 페이지 명                                                                                |  기간         |
