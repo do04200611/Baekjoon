@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author kimga
  *
  */
-public class Main {
+public class BufferReaderCode {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in); // 값 입력 받기
 		int c = sc.nextInt();
