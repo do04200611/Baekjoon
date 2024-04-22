@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 ## Introduction to repositories 
-2588번 곱셈 문제를 풀어놓은 코드입니다. 
+2588번 14681(사분면 고르기) 문제를 풀어놓은 코드입니다. 
 <a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/65d089f4-1901-4885-a860-7f8340b936f6"></a>
 
 # 결과 사진 <br>
