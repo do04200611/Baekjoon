@@ -14,7 +14,7 @@
 
 
 # 결과 사진 <br>
-<a href="25314번(코딩은 체육 과목 입니다 )/Main.java">
+<a href="https://github.com/do04200611/Baekjoon/blob/main/25314%EB%B2%88(%EC%BD%94%EB%94%A9%EC%9D%80%20%EC%B2%B4%EC%9C%A1%20%EA%B3%BC%EB%AA%A9%20%EC%9E%85%EB%8B%88%EB%8B%A4%20)/Main.java">
   <img src="https://github.com/do04200611/Baekjoon/assets/74278578/18d26e5c-9084-40df-9370-62a7d9358cee">
 </a>
 
