@@ -14,3 +14,6 @@
 <a href="https://do04200611.github.io/Baekjoon/2884(%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84)/index.html">알람 시계(2884번)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/index.html">2480(주사위 세개)</a>
 
+<a href="https://do04200611.github.io/Baekjoon/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/index.html">꼬마 정민(11382)</a>
+
+
