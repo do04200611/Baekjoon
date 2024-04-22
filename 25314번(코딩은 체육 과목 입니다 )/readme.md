@@ -14,14 +14,10 @@
 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84(2525)/Main.java">
+<a href="25314번(코딩은 체육 과목 입니다 )/Main.java">
   <img src="https://github.com/do04200611/Baekjoon/assets/74278578/18d26e5c-9084-40df-9370-62a7d9358cee">
 </a>
 
-
-
-
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84(2525)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/42c86ed9-332f-48fb-b936-11a18bb7dd15"></a>
  ## project
 
 # github 웹 호스팅 페이지
