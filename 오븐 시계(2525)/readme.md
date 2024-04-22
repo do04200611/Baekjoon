@@ -10,7 +10,7 @@
 
 ## Introduction to repositories 
 2525번 오븐 시계 문제를 풀어놓은 코드입니다. 
-<img src="https://github.com/do04200611/Baekjoon/assets/74278578/9e5bb83c-863c-4bbb-9ce2-fdadb7c4fa52"> 
+<img src="https://github.com/do04200611/Baekjoon/assets/74278578/65128242-aba5-48ee-ba1b-86b1daeda59d"> 
 
 
 # 결과 사진 <br>
@@ -25,6 +25,7 @@
 <a href="https://do04200611.github.io/Baekjoon/2884(%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84)/index.html">알람 시계(2884번)</a>
 
 ## Contact 
+
 
 
 
