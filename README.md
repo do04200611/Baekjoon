@@ -17,7 +17,7 @@
 <a href="https://do04200611.github.io/Baekjoon/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/index.html">꼬마 정민(11382)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/14681(%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)/index.html">14681(사분면 고르기) 문제</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84(2525)/index.html
-">5.오븐 시계(2525)</a>
+">오븐 시계(2525)</a>
 
 
 
