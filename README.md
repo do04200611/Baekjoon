@@ -15,5 +15,7 @@
 <a href="https://do04200611.github.io/Baekjoon/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/index.html">2480(주사위 세개)</a>
 
 <a href="https://do04200611.github.io/Baekjoon/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/index.html">꼬마 정민(11382)</a>
+<a href="https://do04200611.github.io/Baekjoon/14681(%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)/index.html">14681(사분면 고르기) 문제</a>
+
 
 
