@@ -1,6 +1,6 @@
 # 꼬마 정민(11382)
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%꼬마%20정민(11382)%20문제)
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%20꼬마%20정민(11382)%20문제)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76F00&background=FFBD2F00&random=false&width=435&lines=%E3%81%A9%E3%81%86%E3%81%9E%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E3%81%AD%E3%81%8C%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)](https://git.io/typing-svg)
 
 ## Language of repository📚
@@ -17,7 +17,7 @@
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/9dbf826b-1e15-41e9-9915-33052a37ab73"></a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/2588(%EA%B3%B1%EC%85%88)/index.html">곱셈(2588번)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/index.html">꼬마 정민(11382)</a>
 
 ## Contact 
 
