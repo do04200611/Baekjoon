@@ -1,5 +1,7 @@
 # Baekjoon
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=93BDF7&background=203AFF00&random=false&width=435&lines=My+name+is+kimganghyeon)](https://git.io/typing-svg)
+
 자바로 백준 문제를 풀어놓은 코드 모음 레파지토리입니다.
 
 # 문제 사진
