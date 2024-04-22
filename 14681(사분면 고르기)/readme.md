@@ -17,7 +17,7 @@
 <a href="https://github.com/do04200611/Baekjoon/blob/main/14681(%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/7eb21a60-9692-4034-b038-cc259a8b4b11"></a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/2588(%EA%B3%B1%EC%85%88)/index.html">곱셈(2588번)</a>
+<a href="https://do04200611.github.io/Baekjoon/14681(%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)/index.html">14681(사분면 고르기) 문제</a>
 
 ## Contact 
 
