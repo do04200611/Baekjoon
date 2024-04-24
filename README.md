@@ -18,6 +18,6 @@
 <a href="https://do04200611.github.io/Baekjoon/14681(%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)/index.html">14681(사분면 고르기) 문제</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84(2525)/index.html
 ">오븐 시계(2525)</a>
-
+<a href="https://do04200611.github.io/Baekjoon/%EB%B9%A0%EB%A5%B8%20A+B/index.html">빠른 A+B(15552) </a>
 
 
