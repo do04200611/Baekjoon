@@ -16,7 +16,11 @@
 # 결과 사진 <br>
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%B9%A0%EB%A5%B8%20A%2BB/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/357ab38d-58ee-4af9-9d50-ba1c0fb483d4"></a>
 
- ## project
+ ## 관련 자료
+  | 페이지 명                                                                                |  기간         |
+  |--------------------------------------------------------------------------------|---------------|
+  |[ BufferReader를 정리한 페이지](https://kim-kang-hyun.tistory.com/21) |2024/04/18|
+  |[BufferedWriter 정리한 페이지](https://kim-kang-hyun.tistory.com/25) |2024/04/24|
 
   | 페이지 명                                                                                |  기간         |
   |--------------------------------------------------------------------------------|---------------|
@@ -26,8 +30,6 @@
 <a href="https://do04200611.github.io/Baekjoon/%EB%B9%A0%EB%A5%B8%20A+B/index.html">빠른 A+B(15552) </a>
 
 ## Contact 
-
-
 
 <p align="center">
   📞82-010-3037-9096📞
