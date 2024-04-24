@@ -18,7 +18,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/14681(%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)/index.html">14681(사분면 고르기) 문제</a>
+<a href="https://do04200611.github.io/Baekjoon/10950%EB%B2%88(A+B-3)/index.html">A+B-3(10950)</a><br>
 
 ## Contact 
 
