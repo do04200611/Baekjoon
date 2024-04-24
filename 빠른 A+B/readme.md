@@ -22,9 +22,6 @@
   |[ BufferReader를 정리한 페이지](https://kim-kang-hyun.tistory.com/21) |2024/04/18|
   |[BufferedWriter 정리한 페이지](https://kim-kang-hyun.tistory.com/25) |2024/04/24|
 
-  | 페이지 명                                                                                |  기간         |
-  |--------------------------------------------------------------------------------|---------------|
-  |[BufferReader와 Scanner의 차이](https://kim-kang-hyun.tistory.com/21) |2024/04/18|
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EB%B9%A0%EB%A5%B8%20A+B/index.html">빠른 A+B(15552) </a>
