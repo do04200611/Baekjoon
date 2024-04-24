@@ -14,7 +14,7 @@
 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/CodingTest.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/357ab38d-58ee-4af9-9d50-ba1c0fb483d4"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%B9%A0%EB%A5%B8%20A%2BB/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/357ab38d-58ee-4af9-9d50-ba1c0fb483d4"></a>
 
  ## project
 
