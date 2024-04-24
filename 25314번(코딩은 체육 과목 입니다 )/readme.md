@@ -20,7 +20,7 @@
  ## project
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/2884(%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84)/index.html">알람 시계(2884번)</a>
+<a href="https://do04200611.github.io/Baekjoon/25314%EB%B2%88(%EC%BD%94%EB%94%A9%EC%9D%80%20%EC%B2%B4%EC%9C%A1%20%EA%B3%BC%EB%AA%A9%20%EC%9E%85%EB%8B%88%EB%8B%A4%20)/index.html">코딩은 체육 과목 입니다(25314)</a>
 
 ## Contact 
 
