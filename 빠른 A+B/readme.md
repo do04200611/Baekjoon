@@ -2,7 +2,7 @@
 ## Baekjoon
 
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%20빠른%20A+B%20문제)
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%20빠른%20A%20+B%20문제)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=93BDF7&background=203AFF00&random=false&width=435&lines=My+name+is+kimganghyeon)](https://git.io/typing-svg)
 
 ## Language of repository📚
