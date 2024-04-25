@@ -8,12 +8,12 @@
 
 ## Introduction to repositories 
 10951(A+B - 4) 문제를 풀어놓은 코드입니다. 
-<a href=""><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/cd3bbeec-fff4-4ca6-8778-0bafbe7e4025"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/10951(A%2BB%20-%204)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/cd3bbeec-fff4-4ca6-8778-0bafbe7e4025"></a>
 
 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/14681(%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/f03b5415-fef5-44d7-962d-5bb05a06d57d"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/10951(A%2BB%20-%204)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/f03b5415-fef5-44d7-962d-5bb05a06d57d"></a>
 
 
 
