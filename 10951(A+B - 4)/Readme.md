@@ -18,7 +18,7 @@
  ## 관련 자료
   | 페이지 명                                                                                |  기간         |
   |--------------------------------------------------------------------------------|---------------|
-  |[hasnext() 정리한 페이지]([https://kim-kang-hyun.tistory.com/25](https://kim-kang-hyun.tistory.com/26)) |2024/04/24|
+  |[hasnext() 정리한 페이지|(https://kim-kang-hyun.tistory.com/26) |2024/04/24|
 
 
 # github 웹 호스팅 페이지
