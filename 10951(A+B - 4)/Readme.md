@@ -15,6 +15,10 @@
 # 결과 사진 <br>
 <a href="https://github.com/do04200611/Baekjoon/blob/main/10951(A%2BB%20-%204)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/f03b5415-fef5-44d7-962d-5bb05a06d57d"></a>
 
+ ## 관련 자료
+  | 페이지 명                                                                                |  기간         |
+  |--------------------------------------------------------------------------------|---------------|
+  |[hasnext() 정리한 페이지]([https://kim-kang-hyun.tistory.com/25](https://kim-kang-hyun.tistory.com/26)) |2024/04/24|
 
 
 # github 웹 호스팅 페이지
