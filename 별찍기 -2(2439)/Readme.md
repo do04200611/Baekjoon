@@ -11,13 +11,12 @@
 <img src="https://github.com/do04200611/Baekjoon/assets/74278578/efcb3795-c205-42fe-9ed4-288d102f75bb"> 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/39ba7789-a279-4b8a-997d-615a0f99c3be"></a>
-
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/1ddd6c3f-f54c-420f-8fd5-3cb099eef6cd"></a>
-
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%B3%84%EC%B0%8D%EA%B8%B0%20-2(2439)/Main.java">  
+  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/39ba7789-a279-4b8a-997d-615a0f99c3be">
+</a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/2588(%EA%B3%B1%EC%85%88)/index.html">곱셈(2588번)</a>
+<a href="https://do04200611.github.io/Baekjoon/2588(%EA%B3%B1%EC%85%88)/index.html">별찍기 -2(2439)</a>
 
 ## Contact 
 
