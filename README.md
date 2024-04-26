@@ -22,5 +22,6 @@
 <a href="https://do04200611.github.io/Baekjoon/10950%EB%B2%88(A+B-3)/index.html">A+B-3(10950)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%B9%A0%EB%A5%B8%20A+B/index.html">빠른 A+B(15552) </a><br>
 <a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">10951(A+B - 4)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%B3%84%EC%B0%8D%EA%B8%B0%20-2(2439)/index.html">별찍기 -2(2439)</a>><br>
 
 
