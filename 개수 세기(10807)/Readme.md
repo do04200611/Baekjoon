@@ -8,16 +8,16 @@
 
 ## Introduction to repositories 
 개수 세기(10807) 문제를 풀어놓은 코드입니다. 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/10951(A%2BB%20-%204)/Main.java">
-  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/c7705344-44ae-4193-821a-d8057d13461f">
-</a>
+   <a href="https://www.acmicpc.net/problem/10807">
+        <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/c7705344-44ae-4193-821a-d8057d13461f">
+    </a>
 
-
+   
 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/10951(A%2BB%20-%204)/Main.java">
-  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/fd33ca67-5dda-4c44-b3a0-912b067163c9">
+ <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/Main.java">
+    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/fd33ca67-5dda-4c44-b3a0-912b067163c9">
 </a>
 
 # github 웹 호스팅 페이지
