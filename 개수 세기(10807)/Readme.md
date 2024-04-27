@@ -9,7 +9,7 @@
 ## Introduction to repositories 
 개수 세기(10807) 문제를 풀어놓은 코드입니다. 
 <a href="https://github.com/do04200611/Baekjoon/blob/main/10951(A%2BB%20-%204)/Main.java">
-  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/beb807a5-1eda-4665-a7b6-922281ab449f">
+  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/c7705344-44ae-4193-821a-d8057d13461f">
 </a>
 
 
