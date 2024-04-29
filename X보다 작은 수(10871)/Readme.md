@@ -14,7 +14,7 @@ X보다 작은 수(10871) 문제를 풀어놓은 코드입니다.
     </a>
 
 # 결과 사진 <br>
- <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/Main.java">
+ <a href="https://github.com/do04200611/Baekjoon/blob/main/X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98(10871)/BufferedReader.java">
     <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/0d1d838a-3ae5-4190-ad0d-b79f1827fe45">
 </a>
 
