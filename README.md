@@ -25,4 +25,6 @@
 <a href="https://do04200611.github.io/Baekjoon/%EB%B3%84%EC%B0%8D%EA%B8%B0%20-2(2439)/index.html">별찍기 -2(2439)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/index.html
 ">개수 세기(10807)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98(10871)/index.html">X보다 작은 수(10871)</a><br>
+
 
