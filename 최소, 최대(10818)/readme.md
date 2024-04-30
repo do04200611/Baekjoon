@@ -9,8 +9,7 @@
 
 ## Introduction to repositories 
 최소, 최대(10818) 문제를 풀어놓은 코드입니다. 
-<a href="https://www.acmicpc.net/problem/10818"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/c4927392-1777-42c2-9d3d-94d560eb9882
-"></a>
+<a href="https://www.acmicpc.net/problem/10818"><img src="https://github.com/do04200611/Baekjoon/assets/74278578/c4927392-1777-42c2-9d3d-94d560eb9882"></a>
 
 
 
