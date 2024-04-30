@@ -1,6 +1,6 @@
 # 최소, 최대(10818)
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%2010951(A+B%20-4)%20문제)
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%20최소,%20최대(10818)%20문제)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=93BDF7&background=203AFF00&random=false&width=435&lines=My+name+is+kimganghyeon)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/10951(A%2BB%20-%204)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d9e0392e-4966-49e2-bb5e-923dfdc4a8bf"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80(10818)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d9e0392e-4966-49e2-bb5e-923dfdc4a8bf"></a>
 
  ## 관련 자료
   | 페이지 명                                                                                |  기간         |
