@@ -23,7 +23,7 @@
    |[Arrays 클래스를 정리한 페이지](https://kim-kang-hyun.tistory.com/28) |2024/05/01|
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">10951(A+B - 4)문제</a>
+<a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">최소, 최대(10818)문제</a>
 
 ## Contact 
 
