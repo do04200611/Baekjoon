@@ -21,19 +21,18 @@ import java.util.StringTokenizer;
  */
 public class Main {
 	public static void main(String[] args) throws IOException{
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); // BufferedReader를 객체화함
 		
-		int a = Integer.parseInt(br.readLine());
-		int ar[] = new int[a];
-		int iMax, iMin =0;
+		int a = Integer.parseInt(br.readLine());//a에 값 저장함
+		int ar[] = new int[a];// 배열 ar의 크기는 a며, 객체화함
 		
-		StringTokenizer st = new StringTokenizer(br.readLine());
-		StringBuilder sb = new StringBuilder();
-		for (int i = 0; st.hasMoreElements(); i++){
-			ar[i] = Integer.parseInt(st.nextToken()); 
+		StringTokenizer st = new StringTokenizer(br.readLine());//StringTokenizer를 객체화함
+		StringBuilder sb = new StringBuilder();//StringBuilder를 객체화함
+		for (int i = 0; st.hasMoreElements(); i++){//뒤에 토큰이 있는 경우에만 실행함
+			ar[i] = Integer.parseInt(st.nextToken()); //ar 배열에 요소를 입력받음
 			
 	}
-		Arrays.sort(ar);
-		System.out.println(ar[0]+" "+ar[a-1]);
+		Arrays.sort(ar);// 배열 요소를 정렬함
+		System.out.println(ar[0]+" "+ar[a-1]);// 배열의 최솟값과 최댓값 출력
 	}
 }
