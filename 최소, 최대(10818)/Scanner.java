@@ -30,7 +30,7 @@ public class Main {
 				arr[i] = sc.nextInt();//arr의 배열의 요소를 입력받음
 
 			}
-	        System.out.print(Arrays.stream(arr).min().getAsInt()+" "+Arrays.stream(arr).max().getAsInt()); // 배열의 최대값 입력받음
+	        System.out.print(Arrays.stream(arr).min().getAsInt()+" "+Arrays.stream(arr).max().getAsInt()); // 배열의 최대값과 최솟값 출력함
 
 	}
 }
