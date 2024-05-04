@@ -19,7 +19,7 @@
 </a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">공넣기(10810)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EA%B3%B5%EB%84%A3%EA%B8%B0(10810)/index.html">공넣기(10810)</a>
 
 ## Contact 
 
