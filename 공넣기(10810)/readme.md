@@ -10,17 +10,16 @@
 ## Introduction to repositories 
 공넣기(10810) 문제를 풀어놓은 코드입니다. 
 <a href="https://www.acmicpc.net/problem/10810">
-  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/93aab388-53c8-4bd4-9f1b-84a0485cd44b">
+  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/91692efd-462a-4971-8f48-62832d74c476">
 </a>
-
 
 # 결과 사진 <br>
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%B5%9C%EB%8C%93%EA%B0%92(2562)/Main.java">
-  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/0c86e7e1-2b3a-40d5-8467-c6c243cc0993">
+  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/4f478f1b-cb5e-4ecf-a238-8834ac873dc0">
 </a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">최댓값(2562)</a>
+<a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">공넣기(10810)</a>
 
 ## Contact 
 
