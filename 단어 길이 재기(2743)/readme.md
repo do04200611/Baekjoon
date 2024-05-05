@@ -18,11 +18,10 @@
 </a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/index.html">2480(주사위 세개)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/index.html">단어 길이 재기(2743)</a>
+
 
 ## Contact 
-
-
 
 <p align="center">
   📞82-010-3037-9096📞
