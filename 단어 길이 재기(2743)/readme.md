@@ -13,7 +13,9 @@
 </a>
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/54427e1f-715a-4336-a658-5116bf7d933c"></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/Main.java">
+  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/54427e1f-715a-4336-a658-5116bf7d933c">
+</a>
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/index.html">2480(주사위 세개)</a>
