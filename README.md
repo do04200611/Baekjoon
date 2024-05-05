@@ -25,3 +25,4 @@
 ">개수 세기(10807)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98(10871)/index.html">X보다 작은 수(10871)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%B5%9C%EC%86%8C,%20%EC%B5%9C%EB%8C%80(10818)/index.html">최소, 최대(10818)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/index.html">단어 길이 재기(2743)</a><br>
