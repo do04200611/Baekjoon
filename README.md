@@ -5,13 +5,10 @@
 자바로 백준 문제를 풀어놓은 코드 모음 레파지토리입니다.
 
 # 문제 사진
-<a href="https://www.acmicpc.net/problem/2743">
-  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/5ec773dc-4d4e-40ab-a26c-90a9e200a94b"/></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/CodingTest.java"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdpbbWG%2FbtsGBAArjjV%2FH9hxtswu55qLwPq9TA2lO0%2Fimg.png" width = "700" height = "500"/></a>
 
-# 실행 결과
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%B9%A0%EB%A5%B8%20A%2BB/Main.java">
-  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/9a121afe-65e1-4abd-bc48-31c76f096885"/>
-</a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/CodingTest.java"><img src="https://github.com/do04200611/Baekjoon/assets/74278578/05063faa-c78c-4d04-8db4-8540ee4474e5"  width = "700" height = "500"/></a>
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%B9%A0%EB%A5%B8%20A%2BB/Main.java"><img src="https://github.com/do04200611/Baekjoon/assets/74278578/5a0575ad-52df-4adc-8aa7-4911e0b73d0f"  width = "700" height = "500"/></a>
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/2588(%EA%B3%B1%EC%85%88)/index.html">곱셈(2588번)</a><br>
@@ -28,4 +25,3 @@
 ">개수 세기(10807)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98(10871)/index.html">X보다 작은 수(10871)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%B5%9C%EC%86%8C,%20%EC%B5%9C%EB%8C%80(10818)/index.html">최소, 최대(10818)</a><br>
-
