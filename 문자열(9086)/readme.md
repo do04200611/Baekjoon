@@ -13,7 +13,7 @@
   </a>
 
 # 결과 사진 <br>
- <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/Main.java">
+ <a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4(9086)/Main.java">
     <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/c47bd9e9-c03f-481b-b4d5-557af8dbfe12">
 </a>
 
