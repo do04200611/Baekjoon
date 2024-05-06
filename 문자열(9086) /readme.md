@@ -14,12 +14,13 @@
 
 # 결과 사진 <br>
  <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/Main.java">
-    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/fd33ca67-5dda-4c44-b3a0-912b067163c9">
+    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/c47bd9e9-c03f-481b-b4d5-557af8dbfe12">
 </a>
+
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/index.html
-">개수 세기(10807)</a><br>
+">문자열(9086)</a><br>
 ## Contact 
 
 
