@@ -19,8 +19,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/index.html
-">문자열(9086)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4(9086)/index.html">문자열(9086)</a><br>
 ## Contact 
 
 
