@@ -17,6 +17,12 @@
     <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/c47bd9e9-c03f-481b-b4d5-557af8dbfe12">
 </a>
 
+ # project
+
+  | 페이지 명                                                                                |  기간         |
+  |-----------------------------------------------------------------------------------------|---------------|
+  |[substring을 정리한 페이지](https://kim-kang-hyun.tistory.com/29) |2024/05/07|
+
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4(9086)/index.html">문자열(9086)</a><br>
