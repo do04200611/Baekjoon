@@ -19,9 +19,10 @@
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/9612ef07-c8b1-4ec9-87ce-30bf8b3cb5f2" class='child'>
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d524e90d-91ff-4d7d-bd94-c5f5f0cf3546" class='child'>
  </a>    
-https://kim-kang-hyun.tistory.com/30
+
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">나머지(3052)</a><br>
+
  ## project
 
   | 페이지 명                                                                     |  기간           |
