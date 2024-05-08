@@ -1,6 +1,7 @@
 img{
      margin: auto;
-    display: block;  
+    display: block;
+    float : left;
 }
 
 .data{
