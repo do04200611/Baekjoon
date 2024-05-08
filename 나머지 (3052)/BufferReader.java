@@ -8,7 +8,7 @@ public class Main{
 			HashSet<Integer> hash = new HashSet<Integer>();//HashSet을 int형으로 생성함
 			int count = 0;//변수 count 값 초기화함
 			for (int i = 0; i < 10; i++) {//i가 0부터 9가 될 때 까지 실행함 
-				hash.add(Integer.parseInt(br.readLine())%42);//
+				hash.add(Integer.parseInt(br.readLine())%42);//HashSet 요소를 입력하면서, 42로 나눴을 때 나머지의 값 추가함
 			}
 			for (int i = 0; i < hash.size(); i++) {//i가 0부터 hash의 크기보다 작을 때 까지 실행함
 				count++;// 변수 count 값 증가함
