@@ -14,18 +14,11 @@
   </a>
 
 # 결과 사진 <br>
- <a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4(9086)/Main.java">
-    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/f6ab97e9-0c9c-47da-8f60-92f230e3e9a6">
-   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/9612ef07-c8b1-4ec9-87ce-30bf8b3cb5f2">
-   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d524e90d-91ff-4d7d-bd94-c5f5f0cf3546">
- </a>
-
- # project
-
-  | 페이지 명                                                                                |  기간         |
-  |-----------------------------------------------------------------------------------------|---------------|
-  |[substring을 정리한 페이지](https://kim-kang-hyun.tistory.com/29) |2024/05/07|
-
+ <a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/Main.java">
+   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/f6ab97e9-0c9c-47da-8f60-92f230e3e9a6" class='child'>
+   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/9612ef07-c8b1-4ec9-87ce-30bf8b3cb5f2" class='child'>
+   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d524e90d-91ff-4d7d-bd94-c5f5f0cf3546" class='child'>
+ </a>    
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4(9086)/index.html">문자열(9086)</a><br>
