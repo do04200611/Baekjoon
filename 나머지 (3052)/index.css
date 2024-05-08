@@ -13,3 +13,13 @@ img{
 h1 ~ h3{
     text-align :center; 
 }
+
+.parent {
+  margin: 1px;
+  padding: 10px;
+  text-align: center;
+}
+.child {
+  display: inline-block;
+  border: 1px solid black;
+}
