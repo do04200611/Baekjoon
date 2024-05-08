@@ -9,7 +9,7 @@
 ## Introduction to repositories 
 나머지 (3052) 문제를 풀어놓은 코드입니다. 
    <a href="https://www.acmicpc.net/problem/3052">
-      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/e7b39375-89b4-4ee4-8106-718280f5a000">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/cc54f5ad-172c-4368-87eb-799b1d326cae">
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/db5f6803-f7cd-4ecd-9a0a-7b278493514c">
   </a>
 
