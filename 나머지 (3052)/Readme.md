@@ -24,7 +24,7 @@ https://kim-kang-hyun.tistory.com/30
 <a href="https://do04200611.github.io/Baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">나머지(3052)</a><br>
  ## project
 
-  | 페이지 명                                                                                |  기간         |
+  | 페이지 명                                                                     |  기간           |
   |--------------------------------------------------------------------------------|---------------|
   |[HashSet을 정리한 페이지](https://kim-kang-hyun.tistory.com/30) |2024/05/08|
 
