@@ -15,11 +15,10 @@ h1 ~ h3{
 }
 
 .parent {
-  margin: 1px;
+  margin: 10px;
   padding: 10px;
   text-align: center;
 }
 .child {
-  display: inline-block;
-  border: 1px solid black;
+     border: 1px solid black;
 }
