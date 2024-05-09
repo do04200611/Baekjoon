@@ -8,24 +8,16 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ## Introduction to repositories 
-나머지 (3052) 문제를 풀어놓은 코드입니다. 
+아스키 코드(11654) 문제를 풀어놓은 코드입니다. 
    <a href="https://www.acmicpc.net/problem/11654">
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/5aa976d4-ee7c-41d9-8709-f16d8900819b">
-      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/b6de3562-d9da-46af-b47e-a07dc09a379f">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/e1437079-bd13-4dc4-ae7b-7f356e995ee9">
   </a>
 
 # 결과 사진 <br>
  <a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/Main.java">
-   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/f6ab97e9-0c9c-47da-8f60-92f230e3e9a6" class='child'>
-   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/9612ef07-c8b1-4ec9-87ce-30bf8b3cb5f2" class='child'>
-   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d524e90d-91ff-4d7d-bd94-c5f5f0cf3546" class='child'>
+   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/2e08709a-6c73-4305-98c9-7995ea7acf16" class='child'>
  </a>    
-
-## project
-
-  | 페이지 명                                                                     |  기간           |
-  |--------------------------------------------------------------------------------|---------------|
-  |[HashSet을 정리한 페이지](https://kim-kang-hyun.tistory.com/30) |2024/05/08|
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">나머지(3052)</a><br>
