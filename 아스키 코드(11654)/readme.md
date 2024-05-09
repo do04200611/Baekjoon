@@ -1,6 +1,6 @@
 # 아스키 코드(11654)
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%20나머지%20(3052)%20문제)
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%20아스키%20코드(11654)%20문제)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=93BDF7&background=203AFF00&random=false&width=435&lines=My+name+is+kimganghyeon)](https://git.io/typing-svg)
 
@@ -16,11 +16,11 @@
 
 # 결과 사진 <br>
  <a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/Main.java">
-   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/2e08709a-6c73-4305-98c9-7995ea7acf16" class='child'>
+   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/e19e8da8-4271-4009-bd5f-011aa86cea02" class='child'>
  </a>    
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">나머지(3052)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">아스키 코드(11654)</a><br>
 
 ## Contact 
 <p align="center">
