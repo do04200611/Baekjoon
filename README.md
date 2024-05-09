@@ -27,3 +27,4 @@
 <a href="https://do04200611.github.io/Baekjoon/%EC%B5%9C%EC%86%8C,%20%EC%B5%9C%EB%8C%80(10818)/index.html">최소, 최대(10818)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/index.html">단어 길이 재기(2743)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4(9086)/index.html">문자열(9086)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">나머지(3052)</a><br>
