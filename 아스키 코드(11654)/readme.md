@@ -15,7 +15,7 @@
   </a>
 
 # 결과 사진 <br>
- <a href="https://github.com/do04200611/Baekjoon/tree/main/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C(11654)">
+ <a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C(11654)/Main.java">
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/e19e8da8-4271-4009-bd5f-011aa86cea02" class='child'>
  </a>    
 
