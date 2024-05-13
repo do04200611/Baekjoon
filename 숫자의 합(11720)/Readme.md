@@ -21,7 +21,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">숫자의 합(11720)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9(11720)/index.html">숫자의 합(11720)</a>
 
 ## Contact 
 
