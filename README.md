@@ -29,3 +29,5 @@
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4(9086)/index.html">문자열(9086)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">나머지(3052)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C(11654)/index.html">아스키 코드(11654)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9(11720)/index.html">숫자의 합(11720)</a><br>
+
