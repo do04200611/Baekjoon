@@ -10,7 +10,7 @@
 1152(단어의 개수) 문제를 풀어놓은 코드입니다. 
   
    <a href="https://www.acmicpc.net/problem/1152">
-      <img src ="(https://github.com/do04200611/Baekjoon/assets/74278578/62153c17-7979-48a7-b1a8-b66ffc6b71ed">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/62153c17-7979-48a7-b1a8-b66ffc6b71ed">
   </a>
 
 # 결과 사진 <br>
