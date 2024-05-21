@@ -21,7 +21,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9(11720)/index.html">알파벳 찾기(10809)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0(10809)/index.html">알파벳 찾기(10809)</a>
 
 ## Contact 
 
