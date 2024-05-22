@@ -1,4 +1,3 @@
-<script type="text/javascript">	
 	var number = 0;//특정 갯수만큼 반복하고 멈추게 하기 위해서
 	function change() {
 		const roop = setTimeout(change, 1000);//1초에 한번씩 실행
@@ -14,4 +13,3 @@
 	};
 
 	change();//clearTimeout 조건이 될떄까지 반복
-</script>
