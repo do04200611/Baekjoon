@@ -9,6 +9,7 @@
 
 # Introduction to repositories 
 상수(2908) 문제를 풀어놓은 코드입니다. 
+
 <a href="https://www.acmicpc.net/problem/2908">
   <img src="https://github.com/do04200611/Baekjoon/assets/74278578/65aa91f5-3f8a-4209-91aa-5568ee940b78">
 </a>
