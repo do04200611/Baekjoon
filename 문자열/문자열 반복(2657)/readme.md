@@ -9,14 +9,16 @@
 ## Introduction to repositories 
 1152(단어의 개수) 문제를 풀어놓은 코드입니다. 
   
-   <a href="https://www.acmicpc.net/problem/1152">
-      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/62153c17-7979-48a7-b1a8-b66ffc6b71ed">
+   <a href="https://www.acmicpc.net/problem/2675">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/4861d97b-35c2-438d-a14c-05a6d9a8135f
+">
   </a>
 
 # 결과 사진 <br>
- <a href="https://github.com/do04200611/Baekjoon/blob/main/1152(%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)/Main.java">
-   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/659920bb-8187-43fb-84ac-1c559c306525">
+ <a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5(2657)/Main.java">
+   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/11e6e860-3c66-4981-b24a-bc41daa35aee">
  </a>    
+
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/1152(%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)/index.html">단어의 개수(1152)</a><br>
