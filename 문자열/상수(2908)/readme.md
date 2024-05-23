@@ -23,7 +23,8 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EC%83%81%EC%88%98(2908)/index.html">상수 찾기(2908)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EC%83%81%EC%88%98(2908)/index.html">상수 찾기(2908)</a><br>
+
 ## Contact 
 
 
