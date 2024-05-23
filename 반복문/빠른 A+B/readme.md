@@ -24,8 +24,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EB%B9%A0%EB%A5%B8%20A+B/index.html">빠른 A+B(15552) </a>
-
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/%EB%B9%A0%EB%A5%B8%20A+B/index.html">빠른 A+B(15552) </a><br>
 ## Contact 
 
 <p align="center">
