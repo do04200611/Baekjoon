@@ -15,4 +15,7 @@ h1 ~ h3{
     text-align :center; 
 }
 
-background-color : #70D2B4;
+body{
+     background-color : #70D2B4;
+
+}
