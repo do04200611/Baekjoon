@@ -22,7 +22,7 @@
  ## project
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/2884(%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84)/index.html">알람 시계(2884번)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EC%A1%B0%EA%B1%B4%EB%AC%B8/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84(2525)/index.html">오븐 시계(2525)</a><br>
 
 ## Contact 
 
