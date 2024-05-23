@@ -13,7 +13,9 @@
 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2884(%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/0972fa54-66e3-4a5c-b7b7-871730fcb546"></a>
+
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%A1%B0%EA%B1%B4%EB%AC%B8/2884(%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84)/Main.java">
+<img src ="https://github.com/do04200611/Baekjoon/assets/74278578/0972fa54-66e3-4a5c-b7b7-871730fcb546"></a>
 
 
 
