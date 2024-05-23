@@ -17,7 +17,7 @@
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/9dbf826b-1e15-41e9-9915-33052a37ab73"></a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/index.html">꼬마 정민(11382)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%97%B0%EC%82%B0/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/index.html">3.꼬마 정민(11382)</a><br>
 
 ## Contact 
 
