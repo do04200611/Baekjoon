@@ -24,7 +24,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/index.html">2480(주사위 세개)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EC%A1%B0%EA%B1%B4%EB%AC%B8/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/index.html">2480(주사위 세개)</a><br>
 
 ## Contact 
 
