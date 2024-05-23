@@ -21,8 +21,7 @@
 </a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/index.html
-">개수 세기(10807)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%B0%EC%97%B4/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/index.html">개수 세기(10807)</a><br>
 ## Contact 
 
 
