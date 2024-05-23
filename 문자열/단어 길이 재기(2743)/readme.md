@@ -18,7 +18,7 @@
 </a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/index.html">단어 길이 재기(2743)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/index.html">단어 길이 재기(2743)</a>
 
 
 ## Contact 
