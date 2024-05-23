@@ -19,10 +19,10 @@
 <a href="https://do04200611.github.io/Baekjoon/%EC%A1%B0%EA%B1%B4%EB%AC%B8/2480(%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C)/index.html">2480(주사위 세개)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%A1%B0%EA%B1%B4%EB%AC%B8/14681(%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)/">14681(사분면 고르기) 문제</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%A1%B0%EA%B1%B4%EB%AC%B8/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84(2525)/index.html">오븐 시계(2525)</a><br>
-<a href="https://do04200611.github.io/Baekjoon/10950%EB%B2%88(A+B-3)/index.html">A+B-3(10950)</a><br>
-<a href="https://do04200611.github.io/Baekjoon/%EB%B9%A0%EB%A5%B8%20A+B/index.html">빠른 A+B(15552) </a><br>
-<a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">10951(A+B - 4)</a><br>
-<a href="https://do04200611.github.io/Baekjoon/%EB%B3%84%EC%B0%8D%EA%B8%B0%20-2(2439)/index.html">별찍기 -2(2439)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/10950%EB%B2%88(A+B-3)/index.html">A+B-3(10950)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/%EB%B9%A0%EB%A5%B8%20A+B/index.html">빠른 A+B(15552) </a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/10951(A+B%20-%204)/index.html">10951(A+B - 4)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/%EB%B3%84%EC%B0%8D%EA%B8%B0%20-2(2439)/index.html">별찍기 -2(2439)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%B0%B0%EC%97%B4/%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0(10807)/index.html">개수 세기(10807)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%B0%B0%EC%97%B4/X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98(10871)/index.html">X보다 작은 수(10871)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%B0%B0%EC%97%B4/%EC%B5%9C%EC%86%8C,%20%EC%B5%9C%EB%8C%80(10818)/index.html">최소, 최대(10818)</a><br>
