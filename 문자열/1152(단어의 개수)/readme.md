@@ -19,7 +19,8 @@
  </a>    
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/1152(%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)/index.html">단어의 개수(1152)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/1152(%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)/index.html">단어의 개수(1152)</a><br>
+
 ## Contact 
 <p align="center">
   📞82-010-3037-9096📞
