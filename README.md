@@ -28,12 +28,12 @@
 <a href="https://do04200611.github.io/Baekjoon/%EB%B0%B0%EC%97%B4/%EC%B5%9C%EC%86%8C,%20%EC%B5%9C%EB%8C%80(10818)/index.html">최소, 최대(10818)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%B0%B0%EC%97%B4/%EC%B5%9C%EB%8C%93%EA%B0%92(2562)/index.html
 ">최댓값(2562)</a><br>
-<a href="https://do04200611.github.io/Baekjoon/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/index.html">단어 길이 재기(2743)</a><br>
-<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4(9086)/index.html">문자열(9086)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/index.html">단어 길이 재기(2743)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4(9086)/index.html">문자열(9086)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%B0%B0%EC%97%B4/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">나머지(3052)</a><br>
-<a href="https://do04200611.github.io/Baekjoon/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C(11654)/index.html">아스키 코드(11654)</a><br>
-<a href="https://do04200611.github.io/Baekjoon/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9(11720)/index.html">숫자의 합(11720)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C(11654)/index.html">아스키 코드(11654)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9(11720)/index.html">숫자의 합(11720)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/1152(%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)/index.html">단어의 개수(1152)</a><br>
-<a href="https://do04200611.github.io/Baekjoon/%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0(10809)/index.html">알파벳 찾기(10809)</a><br>
-<a href="https://do04200611.github.io/Baekjoon/%EC%83%81%EC%88%98(2908)/index.html">상수 찾기(2908)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0(10809)/index.html">알파벳 찾기(10809)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EC%83%81%EC%88%98(2908)/index.html">상수 찾기(2908)</a><br>
 
