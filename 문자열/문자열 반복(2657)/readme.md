@@ -7,11 +7,10 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ## Introduction to repositories 
-1152(단어의 개수) 문제를 풀어놓은 코드입니다. 
+문자열 반복(2567) 문제를 풀어놓은 코드입니다. 
   
    <a href="https://www.acmicpc.net/problem/2675">
-      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/4861d97b-35c2-438d-a14c-05a6d9a8135f
-">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/4861d97b-35c2-438d-a14c-05a6d9a8135f">
   </a>
 
 # 결과 사진 <br>
@@ -21,7 +20,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/1152(%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)/index.html">단어의 개수(1152)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5(2657)/index.html">문자열 반복(2567)</a><br>
 
 ## Contact 
 <p align="center">
