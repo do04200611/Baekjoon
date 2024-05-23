@@ -22,8 +22,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">10951(A+B - 4)문제</a>
-
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/10951(A+B%20-%204)/index.html">10951(A+B - 4)</a><br>
 ## Contact 
 
 
