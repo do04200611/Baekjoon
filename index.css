@@ -19,6 +19,12 @@ body{
   text-align: center;/*글자 가운데 정렬 */
 }
 
+#page_information{
+    align-items: center;
+    text-align: center;
+    margin-right: 15px;
+}
+
 /*표 설정 */
 table, td, th {
   background-color : #FFA500;	
