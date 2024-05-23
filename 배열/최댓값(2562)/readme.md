@@ -14,7 +14,8 @@
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%B5%9C%EB%8C%93%EA%B0%92(2562)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/0c86e7e1-2b3a-40d5-8467-c6c243cc0993"></a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/10951(A+B%20-%204)/index.html">최댓값(2562)</a>
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%B0%EC%97%B4/%EC%B5%9C%EB%8C%93%EA%B0%92(2562)/index.html
+">최댓값(2562)</a><br>
 
 ## Contact 
 
