@@ -27,7 +27,7 @@
   |[HashSet을 정리한 페이지](https://kim-kang-hyun.tistory.com/30) |2024/05/08|
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">나머지(3052)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%B0%EC%97%B4/%EB%82%98%EB%A8%B8%EC%A7%80%20(3052)/index.html">나머지(3052)</a><br>
 
 ## Contact 
 <p align="center">
