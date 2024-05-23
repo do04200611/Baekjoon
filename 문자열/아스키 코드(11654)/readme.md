@@ -20,8 +20,7 @@
  </a>    
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C(11654)/index.html">아스키 코드(11654)</a><br>
-
+<a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C(11654)/index.html">아스키 코드(11654)</a><br>
 ## Contact 
 <p align="center">
   📞82-010-3037-9096📞
