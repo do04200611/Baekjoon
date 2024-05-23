@@ -1,14 +1,54 @@
+
 img{
-     margin: auto;
-    display: block;  
+    margin: auto;
+   display: block;  
 }
 
-.data{
-   margin-left:auto;
-   margin-right:auto;
-   text-align :center; 
+body{
+    background-color : #70D2B4;
+
 }
 
-h1 ~ h3{
-    text-align :center; 
+/*header단 설정 */
+.header{
+  text-align: center;/*글자 가운데 정렬 */
+}
+
+/*footer 설정 */
+.footer{
+  text-align: center;/*글자 가운데 정렬 */
+}
+
+#page_information{
+    align-items: center;
+    text-align: center;
+    margin-right: 15px;
+}
+
+/*표 설정 */
+table, td, th {
+  background-color : #FFA500;	
+  margin-left:auto; 
+  margin-right:auto;
+  border-collapse : collapse;
+  border : 1px solid black;
+
+
+}
+
+/*google-font 설정 */
+
+.nanum-myeongjo-regular {
+  font-family: "Nanum Myeongjo", serif;
+  font-weight: 1000;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 30px;
 }
