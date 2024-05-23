@@ -18,8 +18,7 @@
 <a href="https://github.com/do04200611/Baekjoon/blob/main/10950%EB%B2%88(A%2BB-3)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/0b905674-1a82-45b2-b5ca-063872afe5db"></a>
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/10950%EB%B2%88(A+B-3)/index.html">A+B-3(10950)</a><br>
-
+<a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/10950%EB%B2%88(A+B-3)/index.html">A+B-3(10950)</a><br>
 ## Contact 
 
 
