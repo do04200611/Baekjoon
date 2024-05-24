@@ -43,6 +43,7 @@ table, td, th {
   font-weight: 1000;
   font-style: normal;
   font-size: 20px;
+  text-align : center;
 }
 
 .roboto-slab {
@@ -51,4 +52,5 @@ table, td, th {
   font-weight: weight;
   font-style: normal;
   font-size: 30px;
+  text-align : center;
 }
