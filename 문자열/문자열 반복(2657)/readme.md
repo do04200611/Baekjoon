@@ -21,7 +21,7 @@
  ## 관련 자료
   | 페이지 명                                                                                |  기간         |
   |--------------------------------------------------------------------------------|---------------|
-  |[repeat 함수 사용법을 정리한 페이지](https://kim-kang-hyun.tistory.com/32) |2024/05/24|
+  |[repeat() 메서드 사용법을 정리한 페이지](https://kim-kang-hyun.tistory.com/32) |2024/05/24|
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5(2657)/index.html">문자열 반복(2567)</a><br>
