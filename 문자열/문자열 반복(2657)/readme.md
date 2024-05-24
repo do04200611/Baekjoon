@@ -17,7 +17,11 @@
  <a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5(2657)/Main.java">
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/11e6e860-3c66-4981-b24a-bc41daa35aee">
  </a>    
-
+ 
+ ## 관련 자료
+  | 페이지 명                                                                                |  기간         |
+  |--------------------------------------------------------------------------------|---------------|
+  |[repeat 함수 사용법을 정리한 페이지](https://kim-kang-hyun.tistory.com/32) |2024/05/24|
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5(2657)/index.html">문자열 반복(2567)</a><br>
