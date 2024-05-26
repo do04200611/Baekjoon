@@ -22,7 +22,7 @@ body{
 
 #page_information{
     align-items: center;
-    text-align: center;
+    text-align: center; /*가운데 정렬 */
     margin-right: 15px;
 }
 
@@ -41,8 +41,8 @@ table, td, th {
 
 .nanum-myeongjo-regular {
   font-family: "Nanum Myeongjo", serif;
-  font-weight: 1000;
-  font-style: normal;
+  font-weight: 1000; /*글자 굴기 1000픽셀로 지정*/
+  font-style: normal; /*글자 스타일을 보통 글자 형태로 지정 */
   font-size: 20px;  /*글자 크기 20픽셀로 설정 */
 }
 
@@ -50,8 +50,8 @@ table, td, th {
 
 .roboto-slab {
   font-family: "Roboto Slab", serif;
-  font-optical-sizing: auto;
+  font-optical-sizing: auto; 
   font-weight: weight;
-  font-style: normal;
+  font-style: normal; /*글자 스타일을 보통 글자 형태로 지정 */
   font-size: 30px;  /*글자 크기 30픽셀로 설정 */
 }
