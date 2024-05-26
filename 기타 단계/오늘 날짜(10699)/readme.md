@@ -20,7 +20,7 @@
  </a>    
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EC%8B%AC%ED%99%94%201/%ED%82%B9,%20%ED%80%B8,%20%EB%A3%A9,%20%EB%B9%84%EC%88%8D,%20%EB%82%98%EC%9D%B4%ED%8A%B8,%20%ED%8F%B0(3003)/index.html">오늘 날짜(10699)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C(10699)/index.html">오늘 날짜(10699)</a><br>
 
 
 ## Contact 
