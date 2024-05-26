@@ -11,11 +11,6 @@
   <a href="https://www.acmicpc.net/problem/1152">
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/62153c17-7979-48a7-b1a8-b66ffc6b71ed">
   </a>
-
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%8B%A4%EC%9D%B4%EC%96%BC(5622)/Main.java">
-  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/e0c6cabd-166f-41fb-8e73-84ad39abb5e8">
-</a>
-
 <a href="https://www.acmicpc.net/problem/2743">
   <img src="https://github.com/do04200611/Baekjoon/assets/74278578/65a7ebf4-463b-42fb-a09d-e77d052d1bbd"> 
 </a>
