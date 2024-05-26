@@ -4,7 +4,7 @@
 
 심화 1 문제를 모아놓 코드 모음 디렉토리입니다.
 
-# 문제 사진
+# Introduction to repositories
  <a href="https://www.acmicpc.net/problem/10988">
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d2fa3aa0-d1b0-44b2-ba66-18e381d40939">
   </a> <br>
