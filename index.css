@@ -1,6 +1,6 @@
  /*이미지 전체 설정 */
 img{
-    margin: auto;
+    margin: auto;  /*이미지  적절한 여백 크기 설정 */
    display: block;  
 }
 
@@ -29,8 +29,8 @@ body{
 /*표 설정 */
 table, td, th {
   background-color : #FFA500;  /*표 배경 설정 */
-  margin-left:auto; 
-  margin-right:auto;
+  margin-left:auto; /*왼쪽 여백을 적절하게 설정 */
+  margin-right:auto; /*오른쪽 여백을 적절하게 설정 */
   border-collapse : collapse;
   border : 1px solid black;
 
@@ -43,7 +43,7 @@ table, td, th {
   font-family: "Nanum Myeongjo", serif;
   font-weight: 1000;
   font-style: normal;
-  font-size: 20px;
+  font-size: 20px;  /*글자 크기 20픽셀로 설정 */
 }
 
 /*google-font 설정 */
@@ -53,6 +53,6 @@ table, td, th {
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
-  font-size: 30px;
+  font-size: 30px;  /*글자 크기 30픽셀로 설정 */
 }
 
