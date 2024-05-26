@@ -9,7 +9,9 @@
 
 ## Introduction to repositories 
 25314번 코딩은 체육과목 입니다 문제를 풀어놓은 코드입니다. 
-<img src="https://github.com/do04200611/Baekjoon/assets/74278578/4e35fc05-def2-404b-be7a-c88d03fbe7a5"> 
+<a href="https://www.acmicpc.net/problem/25314">
+   <img src="https://github.com/do04200611/Baekjoon/assets/74278578/4e35fc05-def2-404b-be7a-c88d03fbe7a5"> 
+ </a>
 
 
 # 결과 사진 <br>
