@@ -8,7 +8,9 @@
 
 ## Introduction to repositories 
 별찍기 -2(2439) 문제를 풀어놓은 코드입니다. 
-<img src="https://github.com/do04200611/Baekjoon/assets/74278578/efcb3795-c205-42fe-9ed4-288d102f75bb"> 
+<a href="https://www.acmicpc.net/problem/2439">  
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/efcb3795-c205-42fe-9ed4-288d102f75bb"> 
+</a>
 
 # 결과 사진 <br>
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%B3%84%EC%B0%8D%EA%B8%B0%20-2(2439)/Main.java">  
