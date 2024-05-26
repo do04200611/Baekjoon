@@ -7,11 +7,11 @@
 
 # Introduction to repositories 
 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/10950%EB%B2%88(A%2BB-3)/Main.java">
+<a href="https://www.acmicpc.net/problem/10950">
   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/ceb65ecb-b544-40a5-aa4e-ad30c28aae57">
 </a>
 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/10951(A%2BB%20-%204)/Main.java">
+<a href="https://www.acmicpc.net/problem/10951">
  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/cd3bbeec-fff4-4ca6-8778-0bafbe7e4025"></a>
 
 <a href="https://www.acmicpc.net/problem/2439">  
