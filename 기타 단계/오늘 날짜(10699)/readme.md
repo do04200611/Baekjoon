@@ -10,7 +10,7 @@
 ## Introduction to repositories 
 오늘 날짜(10699) 문제를 풀어놓은 코드입니다. 
   
-   <a href="https://www.acmicpc.net/problem/3003">
+   <a href="https://www.acmicpc.net/problem/10699">
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/487dd470-3030-4d64-a3d7-5f89fb218d04">
   </a>
 
