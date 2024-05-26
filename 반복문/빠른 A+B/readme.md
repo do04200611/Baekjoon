@@ -10,7 +10,10 @@
 
 ## Introduction to repositories 
 15552 빠른 A+B 문제를 풀어놓은 코드입니다. 
-<img src="https://github.com/do04200611/Baekjoon/assets/74278578/5a0575ad-52df-4adc-8aa7-4911e0b73d0f"> 
+
+<a href="https://www.acmicpc.net/problem/15552">  
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/5a0575ad-52df-4adc-8aa7-4911e0b73d0f"> 
+</a>
 
 
 # 결과 사진 <br>
