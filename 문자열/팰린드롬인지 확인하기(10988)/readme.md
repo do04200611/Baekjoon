@@ -1,4 +1,4 @@
-#팰린드롬인지 확인하기(10988)
+# 팰린드롬인지 확인하기(10988)
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%201152(단어의%20개수))
 
