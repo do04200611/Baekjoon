@@ -20,7 +20,8 @@
  </a>    
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EC%8B%AC%ED%99%94%201/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0(10988)/index.html">킹, 퀸, 룩, 비숍, 나이트, 폰(3003)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EC%8B%AC%ED%99%94%201/%ED%82%B9,%20%ED%80%B8,%20%EB%A3%A9,%20%EB%B9%84%EC%88%8D,%20%EB%82%98%EC%9D%B4%ED%8A%B8,%20%ED%8F%B0(3003)/index.html">킹, 퀸, 룩, 비숍, 나이트, 폰(3003)</a><br>
+
 
 ## Contact 
 <p align="center">
