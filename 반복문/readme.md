@@ -13,7 +13,9 @@
 
 <a href="https://www.acmicpc.net/problem/10951">
  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/cd3bbeec-fff4-4ca6-8778-0bafbe7e4025"></a>
-
+<a href="https://www.acmicpc.net/problem/25314">
+   <img src="https://github.com/do04200611/Baekjoon/assets/74278578/4e35fc05-def2-404b-be7a-c88d03fbe7a5"> 
+ </a>
 <a href="https://www.acmicpc.net/problem/2439">  
   <img src="https://github.com/do04200611/Baekjoon/assets/74278578/efcb3795-c205-42fe-9ed4-288d102f75bb"> 
 </a>
