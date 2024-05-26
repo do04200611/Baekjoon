@@ -23,9 +23,6 @@
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/dac755db-1275-4599-8b48-20deb4f02bf6">
   </a>
 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EC%83%81%EC%88%98(2908)/Scanner_BufferReader.java">
-  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/1d1c2eb2-842c-4f44-8b75-1add4fbeb7c8">
-</a>
 
 <a href="https://www.acmicpc.net/problem/2908">
   <img src="https://github.com/do04200611/Baekjoon/assets/74278578/65aa91f5-3f8a-4209-91aa-5568ee940b78">
