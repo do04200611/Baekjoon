@@ -32,8 +32,8 @@ table, td, th {
   background-color : #FFA500;  /*표 배경 설정 */
   margin-left:auto; /*왼쪽 여백을 적절하게 설정 */
   margin-right:auto; /*오른쪽 여백을 적절하게 설정 */
-  border-collapse : collapse;
-  border : 1px solid black;
+  border-collapse : collapse; /* */
+  border : 1px solid black; /*테두리를 1픽셀, 검은 색, 일반적인 테두리로 지정 */
 }
 
 /*google-font 설정 */
@@ -49,8 +49,8 @@ table, td, th {
 
 .roboto-slab {
   font-family: "Roboto Slab", serif; /*글꼴 스타일로 지정*/
-  font-optical-sizing: auto; 
-  font-weight: weight;
+  font-optical-sizing: auto; /* */
+  font-weight: weight; /* */
   font-style: normal; /*글자 스타일을 보통 글자 형태로 지정 */
   font-size: 30px;  /*글자 크기 30픽셀로 설정 */
 }
