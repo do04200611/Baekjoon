@@ -11,7 +11,7 @@
 오늘 날짜(10699) 문제를 풀어놓은 코드입니다. 
   
    <a href="https://www.acmicpc.net/problem/3003">
-      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d16ba1fa-c670-4232-acba-da62d4f2742d">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/487dd470-3030-4d64-a3d7-5f89fb218d04">
   </a>
 
 # 결과 사진 <br>
