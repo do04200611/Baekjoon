@@ -6,7 +6,7 @@
 압출력 연산 문제를 풀어놓은 코드 모음 디렉토리입니다.
 
 # 문제 사진
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC(11382)/Baekjoon.cpp">
+<a href="https://www.acmicpc.net/problem/11382">
   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/3a022c09-b00a-4ae2-9029-89d74ce1d0e6">
 </a>
 
