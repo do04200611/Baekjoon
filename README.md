@@ -39,5 +39,5 @@
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5(2657)/index.html">문자열 반복(2657)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%8B%A4%EC%9D%B4%EC%96%BC(5622)/index.html">다이얼(5622)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%8B%AC%ED%99%94%201/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0(10988)/index.html">팰린드롬인지 확인하기(10988)</a><br>
-
+<a href="https://do04200611.github.io/Baekjoon/%EC%8B%AC%ED%99%94%201/%ED%82%B9,%20%ED%80%B8,%20%EB%A3%A9,%20%EB%B9%84%EC%88%8D,%20%EB%82%98%EC%9D%B4%ED%8A%B8,%20%ED%8F%B0(3003)/index.html">킹, 퀸, 룩, 비숍, 나이트, 폰(3003)</a><br>
 
