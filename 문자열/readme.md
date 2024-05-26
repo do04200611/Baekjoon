@@ -6,6 +6,53 @@
 문자열 문제를 풀어놓은 코드 모음 디렉토리입니다.
 
 
+# Introduction to repositories
+
+  <a href="https://www.acmicpc.net/problem/1152">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/62153c17-7979-48a7-b1a8-b66ffc6b71ed">
+  </a>
+
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%8B%A4%EC%9D%B4%EC%96%BC(5622)/Main.java">
+  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/e0c6cabd-166f-41fb-8e73-84ad39abb5e8">
+</a>
+
+<a href="https://www.acmicpc.net/problem/2743">
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/65a7ebf4-463b-42fb-a09d-e77d052d1bbd"> 
+</a>
+
+ <a href="https://www.acmicpc.net/problem/2675">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/4861d97b-35c2-438d-a14c-05a6d9a8135f">
+  </a>
+
+  <a href="https://www.acmicpc.net/problem/9086">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/dac755db-1275-4599-8b48-20deb4f02bf6">
+  </a>
+
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/%EC%83%81%EC%88%98(2908)/Scanner_BufferReader.java">
+  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/1d1c2eb2-842c-4f44-8b75-1add4fbeb7c8">
+</a>
+
+<a href="https://www.acmicpc.net/problem/2908">
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/65aa91f5-3f8a-4209-91aa-5568ee940b78">
+</a>
+
+<a href="https://www.acmicpc.net/problem/11720">
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/5474f360-339a-47c0-b377-6de1540a8528">
+</a>
+
+<a href="https://www.acmicpc.net/problem/11654">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/5aa976d4-ee7c-41d9-8709-f16d8900819b">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/e1437079-bd13-4dc4-ae7b-7f356e995ee9">
+  </a>
+
+<a href="https://www.acmicpc.net/problem/10809">
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/48daa54a-a9ee-4a02-b95f-70a984abf4d2">
+</a>
+
+<a href="https://www.acmicpc.net/problem/11720">
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/5474f360-339a-47c0-b377-6de1540a8528">
+</a>
+
 # github 웹 호스팅 페이지
 
 <a href="https://do04200611.github.io/Baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0(2743)/index.html">단어 길이 재기(2743)</a><br>
