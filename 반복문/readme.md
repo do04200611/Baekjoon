@@ -5,6 +5,22 @@
 
 반복문 문제를 모아놓 코드 모음 디렉토리입니다.
 
+# Introduction to repositories 
+
+<a href="https://github.com/do04200611/Baekjoon/blob/main/10950%EB%B2%88(A%2BB-3)/Main.java">
+  <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/ceb65ecb-b544-40a5-aa4e-ad30c28aae57">
+</a>
+
+<a href="https://github.com/do04200611/Baekjoon/blob/main/10951(A%2BB%20-%204)/Main.java">
+ <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/cd3bbeec-fff4-4ca6-8778-0bafbe7e4025"></a>
+
+<a href="https://www.acmicpc.net/problem/2439">  
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/efcb3795-c205-42fe-9ed4-288d102f75bb"> 
+</a>
+
+<a href="https://www.acmicpc.net/problem/15552">  
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/5a0575ad-52df-4adc-8aa7-4911e0b73d0f"> 
+</a>
 
 # github 웹 호스팅 페이지
 
