@@ -12,12 +12,12 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         
-    	Scanner sc = new Scanner(System.in);
-    	int num = sc.nextInt();
-    	int a = num;
-    	for (int i = 0; i < num; i++) {
-        	System.out.println(a);
-    		a--;
+    	Scanner sc = new Scanner(System.in); //Scanner를 객체화함
+    	int num = sc.nextInt(); //num의 값을 입력 받음
+    	int a = num; //num의 값을 a에 대입함
+    	for (int i = 0; i < num; i++) { //i가 0부터 num보다 작을 때 까지 실행함
+        	System.out.println(a);//a값 출력
+    		a--; //a값 감소함
 
     	}
     }
