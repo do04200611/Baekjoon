@@ -22,3 +22,4 @@
 
 <a href="https://do04200611.github.io/Baekjoon/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C(10699)/index.html">오늘 날짜(10699)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/N%20%EC%B0%8D%EA%B8%B0(2741)/index.html">N찍기</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EA%B8%B0%EC%B0%8D%20N(2742)/index.html">기찍 N(2742)</a><br>
