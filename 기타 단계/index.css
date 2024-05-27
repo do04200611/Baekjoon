@@ -1,7 +1,7 @@
  /*이미지 전체 설정 */
 img{
     margin: auto;  /*이미지  적절한 여백 크기 설정 */
-   display: block; /*이미지 양옆에 줄바꿔서 지정 */ 
+    display: inline-block; /*이미지 양옆에 줄 바꾸지 않고 지정 */ 
 }
 
  /*페이지 전체 설정 */
