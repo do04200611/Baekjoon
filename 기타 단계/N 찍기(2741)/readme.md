@@ -15,10 +15,11 @@ N 찍기(2741) 문제를 풀어놓은 코드입니다.
   </a>
 
 # 결과 사진 <br>
- <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C(10699)/Main.java">
+ <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/N%20%EC%B0%8D%EA%B8%B0(2741)/Main.java">
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/00997b48-1708-46b3-9c57-66df7793a646">
- </a>    
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C(10699)/Main.java">
+ </a> <br>   
+ 
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/N%20%EC%B0%8D%EA%B8%B0(2741)/Baekjoon.cpp">
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d9ee00f0-6a80-4542-953e-793740b098ca">
  </a>  
 
