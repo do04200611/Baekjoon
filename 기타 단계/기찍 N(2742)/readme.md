@@ -16,11 +16,11 @@
   </a>
 
 # 결과 사진 <br>
- <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EA%B8%B0%EC%B0%8D%20N/Main.java">
+ <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EA%B8%B0%EC%B0%8D%20N(2742)/Main.java">
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/00997b48-1708-46b3-9c57-66df7793a646">
  </a> <br>   
  
-<a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EA%B8%B0%EC%B0%8D%20N/Baekjoon.cpp">
+<a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EA%B8%B0%EC%B0%8D%20N(2742)/Baekjoon.cpp">
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/2db0588d-e6d2-458a-9f09-fffbaeaad4b8">
  </a>  
 
