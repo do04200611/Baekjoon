@@ -19,6 +19,13 @@
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/756179e5-e9c8-4f85-8473-e5eac8ae895c">
  </a>    
 
+
+ # project
+
+  | 페이지 명                                                                                |  기간         |
+  |-----------------------------------------------------------------------------------------|---------------|
+  |[날짜 시간 출력 방법을 정리한 페이지](https://kim-kang-hyun.tistory.com/33) |2024/05/27|
+
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C(10699)/index.html">오늘 날짜(10699)</a><br>
 
