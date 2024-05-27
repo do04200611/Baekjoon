@@ -13,7 +13,10 @@
  </a> <br>
  <a href="https://www.acmicpc.net/problem/2741">
      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/05b3ef3b-ca03-4de0-be41-6f49a74b0bc0">
- </a> <br>  
+ </a> <br> 
+   <a href="https://www.acmicpc.net/problem/2742">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/b881d1eb-206a-4fed-bcaf-abd69985e9c9">
+  </a>
 
 # github 웹 호스팅 페이지
 
