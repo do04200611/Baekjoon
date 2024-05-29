@@ -15,7 +15,9 @@
 <a href="https://www.acmicpc.net/problem/3003">
    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/d16ba1fa-c670-4232-acba-da62d4f2742d">
 </a>
- 
+<a href="https://www.acmicpc.net/problem/1157"> <!--문제 url 지정-->
+   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/528409cf-ad03-455e-9c2f-c68852ba7c3e"> <!--문제 사진-->
+</a> <!--a태그 종료--> 
 
 # github 웹 호스팅 페이지
 
