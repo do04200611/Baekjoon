@@ -10,8 +10,9 @@
 
 ## Introduction to repositories 
 2525번 오븐 시계 문제를 풀어놓은 코드입니다. 
-<img src="https://github.com/do04200611/Baekjoon/assets/74278578/65128242-aba5-48ee-ba1b-86b1daeda59d"> 
-
+<a href="https://www.acmicpc.net/problem/2525">
+  <img src="https://github.com/do04200611/Baekjoon/assets/74278578/65128242-aba5-48ee-ba1b-86b1daeda59d"> 
+</a>
 
 # 결과 사진 <br>
 <a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%A1%B0%EA%B1%B4%EB%AC%B8/%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84(2525)/Main.java"><img src="https://github.com/do04200611/Baekjoon/assets/74278578/a04d6def-8408-494e-81e5-fa20f246597c"></a>
