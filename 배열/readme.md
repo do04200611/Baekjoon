@@ -5,6 +5,9 @@
 
 배열 문제를 풀어놓은 코드 모음 디렉토리입니다.
 
+ <a href="https://www.acmicpc.net/problem/10871">
+        <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/a447f94e-7b1d-41b2-ae09-5540c54eabdc">
+    </a>
 
 # github 웹 호스팅 페이지
 
