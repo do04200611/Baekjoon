@@ -16,8 +16,9 @@
 
 # 결과 사진 <br>
  <a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%8B%AC%ED%99%94%201/%ED%82%B9%2C%20%ED%80%B8%2C%20%EB%A3%A9%2C%20%EB%B9%84%EC%88%8D%2C%20%EB%82%98%EC%9D%B4%ED%8A%B8%2C%20%ED%8F%B0(3003)/Main.java">
-   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/660094bf-150d-488f-8039-0335d5bac227">
+   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/f2d8bd25-b4b1-455f-8ffe-350bd9165adc">
  </a>    
+
 
 # github 웹 호스팅 페이지
 <a href="">단어 공부(1157)</a><br>
