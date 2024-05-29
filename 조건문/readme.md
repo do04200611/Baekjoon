@@ -6,7 +6,7 @@
 조건문 문제를 풀어놓은 코드 모음 디렉토리입니다.
 
 # Introduction to repositories 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/2588(%EA%B3%B1%EC%85%88)/Baekjoon.cpp">
+<a href="https://www.acmicpc.net/problem/14681">
   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/65d089f4-1901-4885-a860-7f8340b936f6">
 </a>
 <a href="https://www.acmicpc.net/problem/2480">
