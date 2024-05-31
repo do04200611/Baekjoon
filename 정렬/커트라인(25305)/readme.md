@@ -9,9 +9,8 @@
 
 ## Introduction to repositories 
 커트라인(25305) 문제를 풀어놓은 코드입니다. 
-  
-  <a href="https://www.acmicpc.net/problem/25305">
-      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/087c1d1a-c24e-4cd2-b44b-676d84d6a201">
+   <a href="https://www.acmicpc.net/problem/25305">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/ce897825-b62c-4d1b-ac72-402b8f6e991a">
  </a> <br>
 
 # 결과 사진 <br>
