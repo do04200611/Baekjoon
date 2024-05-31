@@ -17,7 +17,7 @@
 
 # 결과 사진 <br>
  <a href="https://github.com/do04200611/Baekjoon/blob/main/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C(10699)/Main.java">
-   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/756179e5-e9c8-4f85-8473-e5eac8ae895c">
+   <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/8c0836d8-b81a-4ab0-934c-a823e1528eb4">
  </a>    
 
 # github 웹 호스팅 페이지
