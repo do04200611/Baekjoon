@@ -10,10 +10,9 @@
 ## Introduction to repositories 
 최댓값(2566) 문제를 풀어놓은 코드입니다. 
   
-   <a href="https://www.acmicpc.net/problem/10699">
-      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/ba44449a-995b-4410-9010-6e1a854f835b
-">
-  </a>
+  <a href="https://www.acmicpc.net/problem/2566">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/087c1d1a-c24e-4cd2-b44b-676d84d6a201">
+ </a> <br>
 
 # 결과 사진 <br>
  <a href="https://github.com/do04200611/Baekjoon/blob/main/%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%B5%9C%EB%8C%93%EA%B0%92(2566)/Main.java">
