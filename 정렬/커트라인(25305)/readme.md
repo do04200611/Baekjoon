@@ -7,7 +7,7 @@
 ## Language of repository📚
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-## Introduction to repositories 
+## Introduction to repositories <br>
 커트라인(25305) 문제를 풀어놓은 코드입니다. 
    <a href="https://www.acmicpc.net/problem/25305">
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/ce897825-b62c-4d1b-ac72-402b8f6e991a">
