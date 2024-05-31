@@ -16,5 +16,6 @@
 
 # github 웹 호스팅 페이지
 
-<a href="https://do04200611.github.io/Baekjoon/%EC%8B%AC%ED%99%94%201/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0(10988)/index.html">팰린드롬인지 확인하기(10988)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%B5%9C%EB%8C%93%EA%B0%92(2566)/index.html">최댓값(2566)</a><br>
+
 
