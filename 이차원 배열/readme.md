@@ -10,7 +10,7 @@
 이차원 배열 문제를 모아놓 코드 모음 디렉토리입니다.
 
  <a href="https://www.acmicpc.net/problem/2566">
-      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/64cfb264-28a8-470f-a7f4-c10ee5166ddd">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/087c1d1a-c24e-4cd2-b44b-676d84d6a201">
  </a> <br>
   
 
