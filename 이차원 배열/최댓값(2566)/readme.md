@@ -20,7 +20,7 @@
  </a>    
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EA%B8%B0%ED%83%80%20%EB%8B%A8%EA%B3%84/%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C(10699)/index.html">최댓값(2566)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/%EC%B5%9C%EB%8C%93%EA%B0%92(2566)/index.html">최댓값(2566)</a><br>
 
 
 ## Contact 
