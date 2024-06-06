@@ -1,8 +1,12 @@
 import java.io.*;
+import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] rgs) throws IOException {
+    	
+    	//BufferedReader 버전
+    	
     	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     	
     	int k, n;   	
@@ -24,7 +28,24 @@ public class Main {
     		}
 		} 
     	System.out.println(result);
+    	
+    	//Scanner 버전
+    	
+    	Scanner sc = new Scanner(System.in);
+    	
+    	int count1 = 0, total = 0;
+    	int num = sc.nextInt();
+    	int num2 = sc.nextInt(); 
+    	
+    	for (int j = 1; j <= num; j++) {
+			if (num%j == 0) {
+				count1++;
+			}
+			if (count1 == num2) {
+				total = j;
+				break;
+			}
 		}
-		
-		}
-    
+    	System.out.println(total);
+	}
+}
