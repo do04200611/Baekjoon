@@ -21,7 +21,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="">약수 구하기(2501)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EC%95%BD%EC%88%98,%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98/%EC%95%BD%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0(2501)/index.html">약수 구하기(2501)</a><br>
 
 
 ## Contact 
