@@ -1,6 +1,6 @@
 # 약수들의 합
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%201152%20약수%20구하기(2501))
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%201152%20약수들의%20합(9506))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=93BDF7&background=203AFF00&random=false&width=435&lines=My+name+is+kimganghyeon)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ## Introduction to repositories 
-약수 구하기(2501) 문제를 풀어놓은 코드입니다. 
+약수들의 합 (9506) 문제를 풀어놓은 코드입니다. 
   
    <a href="https://www.acmicpc.net/problem/9506">
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/21b9b29b-dcbc-4b39-82ed-963199b09f64">
