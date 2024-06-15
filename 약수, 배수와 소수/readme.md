@@ -25,3 +25,6 @@
 <a href="https://do04200611.github.io/Baekjoon/%EC%95%BD%EC%88%98,%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98/%EB%B0%B0%EC%88%98%EC%99%80%20%EC%95%BD%EC%88%98/index.html">배수와 약수(5086)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%95%BD%EC%88%98,%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98/%EC%95%BD%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0(2501)/index.html">약수 구하기(2501)</a><br>
 <a href="https://do04200611.github.io/Baekjoon/%EC%95%BD%EC%88%98,%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98/%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9/index.html">약수들의 합</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EC%95%BD%EC%88%98,%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98/%EC%86%8C%EC%88%98(2581)/index.html">소수(2581)</a><br>
+<a href="https://do04200611.github.io/Baekjoon/%EC%95%BD%EC%88%98,%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0(1978)/index.html">소수 찾기(1978)</a><br>
+
