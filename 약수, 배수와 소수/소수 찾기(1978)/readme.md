@@ -1,4 +1,4 @@
-#소수 찾기(1978)
+# 소수 찾기(1978)
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%20소수%20찾기(1978))
 
@@ -8,7 +8,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ## Introduction to repositories 
-배수와 약수(5086) 문제를 풀어놓은 코드입니다. 
+소수 찾기(1978) 문제를 풀어놓은 코드입니다. 
   
    <a href="https://www.acmicpc.net/problem/1978">
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/fd39663c-ca47-46ec-8eda-e7de70148cab">
