@@ -19,6 +19,12 @@
  <a href="https://www.acmicpc.net/problem/9506">
       <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/15365a83-1f42-45d2-8a98-5ccbf131f758">
   </a>
+  <a href="https://www.acmicpc.net/problem/2581">
+      <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/5678fda5-d71b-470b-b45f-80d88e80fe7a">
+  </a>
+ <a href="https://www.acmicpc.net/problem/1978">
+    <img src ="https://github.com/do04200611/Baekjoon/assets/74278578/fd39663c-ca47-46ec-8eda-      e7de70148cab">
+</a>
 
 # github 웹 호스팅 페이지
 
