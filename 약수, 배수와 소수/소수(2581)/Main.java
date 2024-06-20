@@ -5,8 +5,8 @@ import java.io.InputStreamReader;
 public class Main {
 	
 	public static void main(String[] args) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int M = Integer.parseInt(br.readLine());
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); //BufferedReader를 객체화
+		int M = Integer.parseInt(br.readLine()); //변수 M 선언
 		int N = Integer.parseInt(br.readLine());
 		int min = M;
 		int sum = -1;
