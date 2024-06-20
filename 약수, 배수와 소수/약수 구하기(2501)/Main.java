@@ -7,15 +7,15 @@ public class Main {
     	
     	//BufferedReader 버전
     	
-    	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  //BufferedReader를 객체화함
     	
-    	int k, n;   	
+    	int k, n; // 변수 k,n 선언
     	 
-    	StringTokenizer st = new StringTokenizer(br.readLine());
-    	k = Integer.parseInt(st.nextToken());
+    	StringTokenizer st = new StringTokenizer(br.readLine());  //StringTokenizer를 객체화함
+    	k = Integer.parseInt(st.nextToken()); //
     	n = Integer.parseInt(st.nextToken());
     	
-    	int count = 0;
+    	int count = 0; 
     	int result = 0;
     	
     	for (int i = 1; i <= k; i++) {
