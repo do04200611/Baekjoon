@@ -7,9 +7,9 @@ public class Main {
     	BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); // BufferedReader를 객체화함
     	
     	Integer a , b;  //변수 a와 b를 선언함
-    	StringTokenizer st;
+    	StringTokenizer st;  //StringTokenizer를 객체 선언
     	while (true) { //참일 때만 실행
-    	 st = new StringTokenizer(br.readLine()," ");  
+    	 st = new StringTokenizer(br.readLine()," "); //st 객체 생성
     	 a = Integer.parseInt(st.nextToken()); //변수 a를 입력 받음
     	 b = Integer.parseInt(st.nextToken()); //변수 b를 입력 받음
     	 if (a==0 || b ==0) {  //a와 b가 0일 때 실행
