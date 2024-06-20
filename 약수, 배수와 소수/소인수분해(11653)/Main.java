@@ -5,9 +5,9 @@ import java.util.StringTokenizer;
 
 public class Main {
 	public static void main(String[] args) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int M = Integer.parseInt(br.readLine());
-		StringBuilder sb = new StringBuilder();
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); // BufferedReader를 객체화함
+		int M = Integer.parseInt(br.readLine()); // 소인수 분해할 변수 M을 입력받음
+		StringBuilder sb = new StringBuilder();  // StringBuilder룰 객체화함
 		
 		for (int i = 2; i <= Math.sqrt(M); i++) { //2부터 M의 제곱근일 때 까지
 			
