@@ -1,6 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -38,5 +39,34 @@ public class Main {
 			
 		}
 		System.out.println(other_x+" "+other_y); //네번째 점 출력
+		
+		
+		//Scanner 버전
+		
+		
+		Scanner sc = new Scanner(System.in); //Scanner 객체화함
+		
+		int x1[] = new int[3];
+		int y1[] = new int[3];
+		
+		for (int i1 = 0; i1 < 3; i1++) {
+			x1[i1] = sc.nextInt();
+			y1[i1] = sc.nextInt();
+		}
+		int other_x1 = 0, other_y1 =0;
+
+		if (x1[0] == x1[1]) {
+			other_x1 = x1[2];
+		}
+		else {
+			other_x1 = (x1[0] == x1[2]) ?(x1[1]):(x1[0]);
+		}
+		if (y1[0] == y1[1]) {
+			other_y1 = y1[2];
+		}
+		else {
+			other_y1 = (y1[0] == y1[2]) ?(y1[1]):(y1[0]);
+		}
+		System.out.println(other_x1+" "+other_y1);
 	}
 }
