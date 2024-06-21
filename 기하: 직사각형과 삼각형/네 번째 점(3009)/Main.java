@@ -46,27 +46,33 @@ public class Main {
 		
 		Scanner sc = new Scanner(System.in); //Scanner 객체화함
 		
-		int x1[] = new int[3];
-		int y1[] = new int[3];
+		int x1[] = new int[3]; //배열 x를 객체화하며, 크기를 3으로 지정
+		int y1[] = new int[3]; //배열 y를 객체화하며, 크기를 3으로 지정
 		
-		for (int i1 = 0; i1 < 3; i1++) {
-			x1[i1] = sc.nextInt();
-			y1[i1] = sc.nextInt();
+		for (int i1 = 0; i1 < 3; i1++) { //i가 0부터 3보다 작을 때 까지 실행
+			x1[i1] = sc.nextInt(); //배열 x의 값을 입력 받음
+			y1[i1] = sc.nextInt(); //배열 y의 값을 입력 받음
 		}
-		int other_x1 = 0, other_y1 =0;
+		int other_x1 = 0, other_y1 =0;  //네 번째 점의 값을 저장할 변수 0으로 초기화함
 
-		if (x1[0] == x1[1]) {
-			other_x1 = x1[2];
+		if (x1[0] == x1[1]) { //첫번째 점과 2번째 점의 값이 같을 때
+			other_x1 = x1[2]; // 세번째 점의 값을 네번째 점의 값에 저장
 		}
-		else {
+		else { //그 밖에
+			
+			//첫 번째 점과 세번째 점의 값이 같으면, 두 번째 점값 출력, 다르면, 첫번째 점값 출력
 			other_x1 = (x1[0] == x1[2]) ?(x1[1]):(x1[0]);
+			
 		}
-		if (y1[0] == y1[1]) {
-			other_y1 = y1[2];
+		if (y1[0] == y1[1]) { //첫번째 점과 2번째 점의 값이 같을 때
+			other_y1 = y1[2];  //세번째 점의 값을 저장
 		}
-		else {
+		else {// 그밖에 경우에
+			
+			//첫 번째 점과 세번째 점의 값이 같으면, 두 번째 점값 출력, 다르면, 첫번째 점값 출력
 			other_y1 = (y1[0] == y1[2]) ?(y1[1]):(y1[0]);
+			
 		}
-		System.out.println(other_x1+" "+other_y1);
+		System.out.println(other_x1+" "+other_y1); //네번째 점 출력
 	}
 }
